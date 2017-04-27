@@ -2,3 +2,5 @@ build
 composer.lock
 docs
 vendor
+config.bat
+node_modules
