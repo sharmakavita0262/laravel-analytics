@@ -4,3 +4,5 @@ docs
 vendor
 .phpunit.result.cache
 /.idea/
+config.bat
+node_modules
